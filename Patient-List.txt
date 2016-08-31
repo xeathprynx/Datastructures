@@ -1,0 +1,31 @@
+AlibinAhmad 75 Male Malay 410318-10-3421 2/7/16 Diabetic K.Selangor 50 Raja 
+LimKimSeng 65 Male Chinese 510214-02-4321 5/8/16 Depression Petaling-Jaya 55 Shamsudin 
+FatimahbintiRusli 63 Female Malay 530430-01-5432 3/4/16 GroinPain Sentul 180 Raja 
+Rajana/lSingamuthu 71 Male Indian 450409-05-5423 21/6/16 Hypertension Kepong 78 Raja 
+SooSinWee 82 Female Chinese 340621-09-4214 13/7/16 LowBloodPressure Ampang 45 LeeKamWai 
+Meenaa/pRamesh 68 Female Indian 480530-14-5432 30/6/16 Pneumonia Semenyih 90 Shamsudin 
+HenryPaul 73 Male Christian 430214-14-5031 18/8/16 Obesity Kota-Kemuning 120  
+RebeccaLee 67 Female Christian 490325-20-4212 16/5/16 Asthma Kajang 65  
+Ramesha/lVeera 42 Male Indian 740603-05-5899 5/6/16 HighBloodPressure Kuala-Lumpur 65 LeeKamWai 
+MaryAnneDesouza 32 Female Christian 840201-09-5790 30/1/16 Diabetic Ampang 50 LeeKamWai 
+FaizbinBaharuddin 27 Male Malay 890321-10-5899 14/2/16 LowSugarLevel Setapak 70 Shamsudin 
+LukeWilson 37 Male Christian 790828-06-4321 28/2/16 Asthma Taman-Melawati 65 Shamsudin 
+NurulbintiWahab 24 Female Malay 920401-07-5998 5/7/16 Sinus Segambut 75 LeeKamWai 
+Rashmitaa/pThatchana 29 Female Indian 870130-14-5690 23/9/16 Obesity Bangsar 120 Raja 
+ChongWeiKit 33 Male Chinese 830731-10-5592 23/9/16 Depression Sg-Buloh 55 Shamsudin 
+DanielLim 20 Male Christian 960412-14-6295 8/1/16 Sinus Semenyih 75 Raja 
+KeJunHonn 19 Male Chinese 970421-13-6321 3/4/16 SkinDisease Batu-Muda 65 LeeKamWai 
+JuliaVictor 17 Female Christian 990819-14-6432 18/8/16 Anxiety Batu-Caves 45 Shamsudin 
+Barathia/pKrishnan 16 Female Indian 000703-10-6490 22/6/16 Tetanus Sri_Gombak 35 Shamsudin 
+Tashaa/pRamuh 18 Female Indian 980619-10-6234 5/8/16 SoreThroat Sg_Buloh 25 LeeKamWai 
+AsyikinbintiShahrul 20 Female Malay 960708-14-6242 5/7/16 Obesity Kajang 120 Raja 
+AnisahbintiIbrahim 10 Female Malay 060903-10-6592 28/2/16 Flu Klang 50 Shamsudin 
+Balaa/lRajah 13 Male Indian 030423-14-6341 8/5/16 Fever ShahAlam 32 Shamsudin 
+TanWinYeh 8 Male Chinese 080513-02-6751 30/1/16 Dengue KualaLumpur 230 Raja 
+YitYing 9 Female Chinese 071111-09-6682 18/8/16 Asthma MontKiara 65 LeeKamWai 
+Jasbira/lJaspal 6 Male Sikh 106521-06-6891 2/7/16 BrokenArm MasjidIndia 100 Raja 
+AbrahamDavid 2 Male Christian 140521-14-7029 23/9/16 Flu KualaLumpur 50 LeeKamWai 
+SitibintiRashid 1 Female Malay 150819-10-7192 16/5/16 Rashes PetalingJaya 32 Shamsudin 
+JoeyBanger 3 Male Christian 131112-10-6999 13/7/16 Sorethroat BatuCaves 25 Raja 
+Jeyaa/pSathya 4 Female Indian 121212-12-6812 8/5/16 Fever Greenwood 32 Raja 
+          
